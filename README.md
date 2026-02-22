@@ -1,111 +1,75 @@
-# 👋 Hi, I'm Indrazith Mayilsamy
-### 🧪 Quality Analyst | 🤖SDET | 📊 Business Analyst
-I’m a passionate Quality Analyst and Automation Engineer focused on delivering high-quality software through smart testing strategies, scalable automation frameworks, and strong business requirement understanding.
+# Hi, I’m Indrazith 👋
 
-I bridge the gap between business needs and technical execution — ensuring products are reliable, efficient, and user-focused.
+I’m a QA Engineer and Automation Tester focused on building reliable test solutions for complex enterprise applications.
+My work mainly involves Playwright, TypeScript, and BDD, automating ERP and HRMS workflows where business logic truly matters.
 
-## 🚀 About Me
+I’m comfortable across the full testing lifecycle — from understanding requirements and writing solid test cases to creating stable automation that performs well in real-world, dynamic environments.
 
-With hands-on experience in both manual and automation testing, I specialize in building maintainable test frameworks and ensuring end-to-end product quality.
+## 
 
-I enjoy:
+## A little about me
 
-- Breaking complex systems to make them better
-- Automating repetitive workflows
-- Improving test coverage and release confidence
-- Translating business requirements into testable solutions
+- I work mainly on ERP & HRMS products
+- I build automation using Playwright with TypeScript and Cucumber
+- I care a lot about clean frameworks and maintainable tests
+- I have a strong manual testing foundation (STLC, regression, UAT)
+- I like solving real UI problems like dynamic elements, sessions, and flaky behavior
 
-My goal is simple:
-##### 👉 Build quality into software, not just test it in.
+##
 
-## 🛠️ Technical Skills
-### 🔧 Automation & Testing
-- Playwright (TypeScript)
-- Selenium
-- Cucumber (BDD)
-- API Testing
-- Regression & E2E Testing
-- Cross-browser Testing
-
-### 💻 Programming
+## Tech I use
+#### Automation
+- Playwright
 - TypeScript
-- JavaScript
+- Cucumber (BDD)
+- Page Object Model
+- API testing
+#### Manual Testing
+- Test case design
+- Regression & smoke testing
+- Defect tracking
+- Requirement analysis
+#### Tools
 
-### 📐 Framework Design
-- Page Object Model (POM)
-- Modular Framework
-- Data-Driven Framework
-- Keyword-Driven Framework
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
+- Git/GitHub
 - Jira
-- CI/CD Pipelines
 - Postman
+- VS Code
+##
+## Projects I’ve worked on
+#### ERP Automation Framework
 
-### 📊 Business Analysis Skills
-- Requirement Gathering & Review
-- BRD / FRD Understanding
-- Gap Analysis
-- Stakeholder Communication
-- Impact Analysis
-- User Story Validation
+I built an automation framework from scratch using Playwright and TypeScript to cover real business flows in an ERP system.
 
-## 📁Projects & Work Highlights
-### ✅ Test Automation Framework (Playwright + TypeScript)
-- Built scalable automation framework using POM
-- Integrated BDD approach for business-readable tests
-- Implemented reusable utilities and test helpers
-- Data-driven execution using Excel/JSON
-- CI/CD pipeline integration
+Some things I handled:
+- End-to-end workflows instead of just page-level tests
+- Conditional popups and session-based behavior
+- Applications without loaders (smart waits & visibility handling)
+- Clean POM structure for long-term maintenance
 
-### Result:
-🚀 Faster regression cycles & improved test coverage
+This helped cut down regression time a lot and made releases more stable.
+##
+#### HRMS Product – atTeam
 
-## ✅ End-to-End Testing Suite
+I worked on a cloud-based HRMS platform covering more than 20 modules including employee management, attendance, leave, RBAC, and appraisals.
 
-- Automated core business flows
-- Covered critical user journeys
-- Reduced manual regression effort
-- Improved release confidence
+My role included:
 
-## ✅ Manual + Automation Hybrid Strategy
-- Designed test plans and scenarios
-- Converted high-priority cases into automation
-- Ensured maximum coverage with optimal effort
+- Writing and executing test cases
+- Automating critical workflows
+- Finding and tracking bugs
+- Supporting UAT and releases
 
-## 🧠 Testing Approach
+## How I like to work
 
-✔️ Requirement-first testing <br>
-✔️ Risk-based test design <br>
-✔️ Automation where it adds value <br>
-✔️ Continuous improvement mindset <br>
-✔️ Quality ownership mindset <br>
+✔ Think like a user, test like an engineer <br>
+✔ Automate what actually matters <br>
+✔ Keep frameworks simple and stable <br>
+✔ Focus on quality over just coverage <br>
 
-## 📈 Achievements & Strengths
+##
 
-- Reduced regression time significantly through automation
-- Built reusable frameworks adopted by teams
-- Improved defect leakage rate
-- Strong collaboration with dev & business teams
-- Quick learner of tools and technologies
+## Let’s connect
 
-## 🎯 Career Focus
-
-I am passionate about:
-
-🧪 Delivering high-quality software <br>
-🤖 Building intelligent automation systems <br>
-📊 Aligning testing with business goals <br>
-🚀 Driving continuous quality improvement <br>
-
-## 📬 Let’s Connect
-
-If you’re looking for someone who:
-
-✅ Owns quality end-to-end <br>
-✅ Builds strong automation solutions <br>
-✅ Understands business + technology <br>
-✅ Improves delivery confidence <br>
-
-👉 Let’s talk!
+- LinkedIn: [Indrazith Mayilsamy](www.linkedin.com/in/indrazith-mayilsamy)
+- Email: [indrazith.qa@gmail.com](indrazith.qa@gmail.com)
